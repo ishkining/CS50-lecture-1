@@ -1,0 +1,15 @@
+#img{
+  width: 50%;
+}
+
+.ol__li_color_red{
+  color: red;
+}
+
+.table__tr_background-color_blue{
+  background-color: blue;
+}
+
+.tr__th_weight_bold{
+  font-weight: bold;
+}
