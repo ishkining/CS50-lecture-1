@@ -1,0 +1,15 @@
+p {
+  color: red;
+}
+
+.greenAlert {
+  font-size: 24px;
+  font-weight: bold;
+  color: red;
+}
+
+.greenAlert {
+  background-color: green;
+}
+
+/*# sourceMappingURL=variable.css.map */

@@ -1,0 +1,16 @@
+$color : red;
+
+p {
+  color: $color;
+}
+
+%function{
+  font-size: 24px;
+  font-weight: bold;
+  color: $color;
+}
+
+.greenAlert{
+  @extend %function;
+  background-color: green;
+}
